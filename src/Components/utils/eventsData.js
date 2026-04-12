@@ -1,0 +1,122 @@
+export const eventsData = [
+{
+id:1,
+title:"Tech Conference 2026",
+category:"Technology",
+date:"2026-08-10",
+time:"10:00 AM",
+location:"Dhaka Convention Center",
+price:50,
+image:"https://images.unsplash.com/photo-1505373877841-8d25f7d46678",
+description:"A conference for developers and tech enthusiasts.",
+details:"Join industry experts, developers, and entrepreneurs to explore the future of technology."
+},
+{
+id:2,
+title:"Music Festival Night",
+category:"Music",
+date:"2026-07-20",
+time:"6:00 PM",
+location:"Chittagong Stadium",
+price:30,
+image:"https://images.unsplash.com/photo-1470225620780-dba8ba36b745",
+description:"An amazing music festival experience.",
+details:"Enjoy live music performances by popular artists."
+},
+{
+id:3,
+title:"Startup Networking Event",
+category:"Business",
+date:"2026-07-25",
+time:"4:00 PM",
+location:"Dhaka Tech Park",
+price:20,
+image:"https://images.unsplash.com/photo-1511578314322-379afb476865",
+description:"Meet startup founders and investors.",
+details:"Networking opportunity for entrepreneurs and investors."
+},
+{
+id:4,
+title:"Creative Design Workshop",
+category:"Workshop",
+date:"2026-07-30",
+time:"2:00 PM",
+location:"Sylhet Creative Hub",
+price:15,
+image:"https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+description:"Learn modern design techniques.",
+details:"Hands-on design workshop for beginners and professionals."
+},
+{
+id:5,
+title:"Fitness Marathon",
+category:"Sports",
+date:"2026-08-05",
+time:"7:00 AM",
+location:"Cox's Bazar Beach",
+price:10,
+image:"https://images.unsplash.com/photo-1461896836934-ffe607ba8211",
+description:"Run for health and fitness.",
+details:"Join the biggest community fitness marathon."
+},
+{
+id:6,
+title:"AI & Machine Learning Summit",
+category:"Technology",
+date:"2026-09-12",
+time:"11:00 AM",
+location:"Dhaka University",
+price:60,
+image:"https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+description:"Explore AI innovations.",
+details:"Experts discuss future AI and ML technologies."
+},
+{
+id:7,
+title:"Photography Masterclass",
+category:"Workshop",
+date:"2026-08-18",
+time:"3:00 PM",
+location:"Khulna Art Center",
+price:25,
+image:"https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+description:"Learn photography skills.",
+details:"Professional photographers guide beginners."
+},
+{
+id:8,
+title:"Business Leadership Summit",
+category:"Business",
+date:"2026-09-02",
+time:"9:00 AM",
+location:"Radisson Hotel Dhaka",
+price:80,
+image:"https://images.unsplash.com/photo-1556761175-b413da4baf72",
+description:"Leadership and management summit.",
+details:"Learn leadership strategies from industry leaders."
+},
+{
+id:9,
+title:"Food & Culture Festival",
+category:"Festival",
+date:"2026-08-22",
+time:"5:00 PM",
+location:"Old Dhaka",
+price:12,
+image:"https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+description:"Taste different cultural foods.",
+details:"Experience global cuisines and food culture."
+},
+{
+id:10,
+title:"Art Exhibition 2026",
+category:"Art",
+date:"2026-09-10",
+time:"1:00 PM",
+location:"National Art Gallery",
+price:18,
+image:"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+description:"Modern art exhibition.",
+details:"Discover creative artworks from talented artists."
+}
+]
